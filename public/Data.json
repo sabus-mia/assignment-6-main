@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphone",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 3500,
+    "rating": 4.8,
+    "stock": 15,
+    "image": "https://img.icons8.com/external-those-icons-fill-those-icons/1200/external-headphones-music-audio-those-icons-fill-those-icons-1.jpg",
+    "features": ["Noise Cancellation", "40 Hours Battery", "Bluetooth 5.3"],
+    "description": "High-quality wireless headphone with deep bass."
+  },
+
+  {
+    "id": 2,
+    "title": "Mechanical Gaming Keyboard",
+    "brand": "Logitech",
+    "category": "Accessories",
+    "price": 4200,
+    "rating": 4.7,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae",
+    "features": ["RGB", "Blue Switch", "USB"],
+    "description": "Smooth typing and gaming experience."
+  },
+  {
+    "id": 3,
+    "title": "Wireless Gaming Mouse",
+    "brand": "Razer",
+    "category": "Accessories",
+    "price": 2800,
+    "rating": 4.6,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46",
+    "features": ["16000 DPI", "RGB", "Rechargeable"],
+    "description": "High precision gaming mouse."
+  },
+  {
+    "id": 4,
+    "title": "Smart Watch Series 9",
+    "brand": "Apple",
+    "category": "Wearable",
+    "price": 18500,
+    "rating": 4.9,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12",
+    "features": ["Heart Rate", "GPS", "Water Resistant"],
+    "description": "Premium smartwatch for fitness and daily use."
+  },
+  {
+    "id": 5,
+    "title": "Portable SSD 1TB",
+    "brand": "Samsung",
+    "category": "Storage",
+    "price": 9500,
+    "rating": 4.8,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b",
+    "features": ["1TB", "USB Type-C", "Fast Transfer"],
+    "description": "Ultra-fast portable SSD storage."
+  },
+  {
+    "id": 6,
+    "title": "HD Webcam 1080p",
+    "brand": "HP",
+    "category": "Camera",
+    "price": 3200,
+    "rating": 4.5,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "features": ["1080p", "Built-in Mic", "USB"],
+    "description": "Perfect for online classes and meetings."
+  },
+  {
+    "id": 7,
+    "title": "USB Type-C Charger",
+    "brand": "Anker",
+    "category": "Power",
+    "price": 1800,
+    "rating": 4.6,
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0",
+    "features": ["Fast Charging", "20W", "Compact"],
+    "description": "Fast and safe mobile charging adapter."
+  },
+  {
+    "id": 8,
+    "title": "Laptop Cooling Pad",
+    "brand": "Cooler Master",
+    "category": "Accessories",
+    "price": 2200,
+    "rating": 4.4,
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8",
+    "features": ["Dual Fan", "LED Light", "USB Powered"],
+    "description": "Keeps laptop cool during long usage."
+  },
+  {
+    "id": 9,
+    "title": "Wireless Speaker",
+    "brand": "JBL",
+    "category": "Audio",
+    "price": 4800,
+    "rating": 4.7,
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab",
+    "features": ["Deep Bass", "Bluetooth", "10h Battery"],
+    "description": "Portable speaker with powerful sound."
+  }
+
+
+]
