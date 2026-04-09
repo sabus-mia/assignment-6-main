@@ -18,3 +18,32 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # assignment-6-main
 >>>>>>> 4313932bdc72194ed9e5c9d54264bcf986019a8e
+
+# DigiTools 🚀
+
+A modern digital tools website built with React and Vite.
+
+## 🌐 Live Demo
+https://your-netlify-link.netlify.app
+
+## ✨ Features
+- Responsive Navbar
+- Hero Section
+- Tools Grid
+- Reusable React Components
+- Modern UI Design
+
+## 🛠️ Technologies Used
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+
+## 📂 Installation
+```bash
+npm install
+npm run dev
+```
+
+## 👨‍💻 Author
+Sobuj Shakh
